@@ -6,3 +6,7 @@ management:
   endpoint:
     health:
       show-details: ALWAYS
+  info:
+    git:
+      enabled: true
+      mode: full
